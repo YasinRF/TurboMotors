@@ -1,34 +1,38 @@
-# TurboMotors
+# 🚗 Turbo Motors 🚗
 
-Bienvenido a **TurboMotors**, tu tienda en línea para la compra y venta de coches. Ofrecemos una experiencia de usuario optimizada con una maquetación clara, uso efectivo de multimedia, alta usabilidad y accesibilidad.
+Bienvenidos a **Turbo Motors**, una plataforma web de venta de coches construida con las más modernas tecnologías. Este proyecto está desarrollado con PHP y Laravel para el backend, HTML, CSS y JavaScript para el frontend, y MySQL como base de datos. Los colores predominantes de nuestra página son el naranja y el negro, dándole un estilo moderno y dinámico.
 
-## Características Principales
+## 📜 Tabla de Contenidos
 
-### Maquetación
-- **Estructura Clara:** Diseño en cuadrícula con secciones bien definidas para facilitar la navegación.
-- **Responsivo:** Adaptable a diferentes dispositivos y tamaños de pantalla, asegurando una experiencia consistente.
-- **Consistencia Visual:** Uso uniforme de una paleta de colores predominante en naranja y negro, junto con una tipografía coherente.
+- [Características](#características)
+- [Tecnologías](#tecnologías)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuir](#contribuir)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-### Multimedia
-- **Imágenes y Gráficos:** Alta calidad y optimizados para la web, mostrando los coches con detalles impresionantes.
-- **Videos:** Integración eficiente con controles intuitivos y subtítulos, proporcionando una visión clara de nuestros vehículos.
-- **Interactividad:** Galerías, sliders y animaciones diseñadas para mejorar la experiencia del usuario sin afectar la velocidad de carga.
+## 🚀 Características
 
-### Usabilidad
-- **Navegación Intuitiva:** Menú claro y accesible que permite a los usuarios encontrar fácilmente lo que buscan.
-- **Carga Rápida:** Optimización de imágenes y archivos para una rápida velocidad de carga.
-- **Formularios Amigables:** Formularios fáciles de completar con validación en tiempo real para asegurar una experiencia de usuario fluida.
+- **Inicio**: Página principal con las últimas novedades y promociones.
+- **Inventario**: Listado completo de todos los coches disponibles para la venta.
+- **Deseos**: Lista de deseos personalizada para los usuarios registrados.
+- **Comprados**: Sección para ver los coches comprados por el usuario.
+- **Contacto**: Formulario para contactar con el equipo de Turbo Motors.
+- **Gestión**: Panel de administración (solo para el admin) para gestionar coches, usuarios y ventas.
 
-### Accesibilidad
-- **Cumplimiento de WCAG:** Implementación de textos alternativos, contraste adecuado y otras técnicas para asegurar la accesibilidad.
-- **Navegación por Teclado:** Funcionalidad accesible sin necesidad de un ratón, permitiendo la navegación por teclado.
-- **Compatibilidad con Lectores de Pantalla:** Uso de roles ARIA y otras tecnologías para asegurar la compatibilidad.
-- **Subtítulos y Descripciones:** Inclusión de subtítulos y descripciones detalladas para todo el contenido multimedia.
+## 💻 Tecnologías
 
-## Instalación
+- **Backend**: PHP 8.0+, Laravel 9
+- **Frontend**: HTML5, CSS3, JavaScript (ES6)
+- **Base de Datos**: MySQL
+- **Otros**: Composer, npm
 
-Para instalar y ejecutar TurboMotors en tu entorno local, sigue estos pasos:
+## 🛠️ Instalación
 
-1. Clona este repositorio:
+Sigue estos pasos para configurar el proyecto en tu máquina local:
+
+1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/turbomotors.git
+   git clone https://github.com/YasinRF/TurboMotors.git
+   cd TurboMotors
