@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="turboMotors-sinFondo">
+</div>
+
 # 🚗 Turbo Motors 🚗
 
 Bienvenidos a **Turbo Motors**, una plataforma web de venta de coches construida con las más modernas tecnologías. Este proyecto está desarrollado con PHP y Laravel para el backend, HTML, CSS y JavaScript para el frontend, y MySQL como base de datos. Los colores predominantes de nuestra página son el naranja y el negro, dándole un estilo moderno y dinámico.
@@ -35,4 +39,3 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/YasinRF/TurboMotors.git
-
