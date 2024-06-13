@@ -23,7 +23,7 @@ Bienvenidos a **Turbo Motors**, una plataforma web de venta de coches construida
 
 ## 💻 Tecnologías
 
-- **Backend**: PHP 8.0+, Laravel 9
+- **Backend**: PHP 8.0+, Laravel 10
 - **Frontend**: HTML5, CSS3, JavaScript (ES6)
 - **Base de Datos**: MySQL
 - **Otros**: Composer, npm
@@ -35,4 +35,4 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/YasinRF/TurboMotors.git
-   cd TurboMotors
+
