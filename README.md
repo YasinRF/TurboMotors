@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public\storage\imagenes\logo-sinFondo.png">
+  <img src="/storage/imagenes/logo-sinFondo.png">
 </div>
 
 # 🚗 Turbo Motors 🚗
