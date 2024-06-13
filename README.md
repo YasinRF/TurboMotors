@@ -1,6 +1,5 @@
 <div align="center">
-    <a href="http://ec2-18-209-234-90.compute-1.amazonaws.com/"
-  <img src="public/app/storage/imagenes/logo-sinFondo.png"> />
+  <img src="public/app/storage/imagenes/logo-sinFondo.png">
 </div>
 
 # 🚗 Turbo Motors 🚗
